@@ -1,7 +1,7 @@
 # Taranis Black | Marketing e Conteúdo com IA
 
 **Oracle Next Education · G11 · Rota 2**  
-**Autora:** Julio Gustavo Corrêa 
+**Autor:** Julio Gustavo Corrêa 
 
 Projeto educacional para a empresa fictícia Taranis Black. O piloto transforma uma pauta técnica sobre ergonomia em três peças adequadas a públicos distintos. O objetivo é avaliar se uma equipe de quatro pessoas consegue reduzir o esforço de adaptação e preservar a identidade verbal da marca.
 
